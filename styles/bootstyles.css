@@ -1,0 +1,19 @@
+.header {
+    text-align: center; 
+    color: white; 
+    margin-top: 5px; 
+    margin-bottom: 5px;}
+.descriptions {
+    text-align: center;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1000px;
+    color: white;}
+.footer {
+    height: 25px;
+    background-color: lightgray;
+    text-align: center;}
+.main {
+    background-image: url(../images/Image1.jpg);}
+.top {
+    background-color: lightgray;}
